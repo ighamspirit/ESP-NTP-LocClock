@@ -5,8 +5,8 @@
 #include <WiFiUdp.h>           // UDP packet support
 #include <TimeLib.h>           // Arduino time functions
 
-#define WIFI_SSID "StardadO"              // replace with your ID
-#define WIFI_PASS "leo06cel02nic84den82"  // replace with your password
+#define WIFI_SSID "SSIS"              // replace with your ID
+#define WIFI_PASS "PASSWORT"  // replace with your password
 #define UDP_PORT 123
 
 SoftwareSerial gpsSerial(D5, D6);
