@@ -1,3 +1,4 @@
+![Beta-Version der LocClock](ESP-LocClock.jpg)
 # ESP-NTP-LocClock
 
 Dieses Projekt umfasst die Entwicklung eines Arduino-basierten Systems, das verschiedene Informationen auf einem Adafruit SSD1306 OLED-Display anzeigt. Die Hauptkomponenten und Funktionen des Projekts sind wie folgt:
@@ -27,3 +28,6 @@ Dieses Projekt umfasst die Entwicklung eines Arduino-basierten Systems, das vers
 
 ## Zusammenfassung:
 Dieses Projekt kombiniert Hardware-Interaktion, Datenverarbeitung und grafische Anzeige, um ein multifunktionales Gerät zu schaffen, das nützliche Informationen wie Zeit, geografische Lage und Netzwerkstatus anzeigt. Es ist ein Beispiel für die Integration verschiedener Technologien in einem einzigen System, das für Bildungs-, Hobby- oder praktische Anwendungen nützlich sein kann.
+
+## Disclaimer
+Dieses Projekt ist ein Teil der Entwicklungen des IG Hamspirit e.V. und wurde von der Community für Bildungs- und Hobbyzwecke zur Verfügung gestellt. Es dient der Förderung technischer Fähigkeiten und des Wissensaustauschs im Amateurfunkbereich. Siehe: https://www.ighamspirit.de/Projekte
