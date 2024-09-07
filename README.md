@@ -32,4 +32,7 @@ Dieses Projekt kombiniert Hardware-Interaktion, Datenverarbeitung und grafische 
 ## Disclaimer
 Dieses Projekt ist ein Teil der Entwicklungen des IG Hamspirit e.V. und wurde von der Community für Bildungs- und Hobbyzwecke zur Verfügung gestellt. Es dient der Förderung technischer Fähigkeiten und des Wissensaustauschs im Amateurfunkbereich. Siehe: https://www.ighamspirit.de/Projekte
 
-![Beta-Version der LocClock beim Booten](LocClock_Booting.mp4)
+<video width="600" controls>
+  <source src="LocClock_Booting.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
