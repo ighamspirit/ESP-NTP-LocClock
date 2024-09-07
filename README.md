@@ -31,3 +31,5 @@ Dieses Projekt kombiniert Hardware-Interaktion, Datenverarbeitung und grafische 
 
 ## Disclaimer
 Dieses Projekt ist ein Teil der Entwicklungen des IG Hamspirit e.V. und wurde von der Community für Bildungs- und Hobbyzwecke zur Verfügung gestellt. Es dient der Förderung technischer Fähigkeiten und des Wissensaustauschs im Amateurfunkbereich. Siehe: https://www.ighamspirit.de/Projekte
+
+![Beta-Version der LocClock](LocClock_Booting.MOV)
